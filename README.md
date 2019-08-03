@@ -1,5 +1,10 @@
 # 죽음의 스쿼트배틀 : PUMPETITION
 
+### Fork 및 Pullrequest 연습 목적
+
+1. 임호정 2019-08-03
+
+
 ### 환영의 말
 환영합니다.
 본 프로젝트는 Pose-Estimation 을 기반으로 한 동작인식 헬스게임 앱입니다.
